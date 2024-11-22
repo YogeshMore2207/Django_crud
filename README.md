@@ -3,7 +3,6 @@
 This is a simple Django CRU built with Django and Django Rest Framework. It allows users to register, authenticate using JWT tokens, and perform CRUD operations on blog posts.
 
 ## Features
-
 - User Registration
 - User Authentication using JWT
 - Create, Read, Update, and Delete (CRUD) operations for blog posts
