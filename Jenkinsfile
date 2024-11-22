@@ -76,7 +76,7 @@ pipeline {
                     // Deploy the app (this could be an SSH deployment, Docker container run, etc.)
                     // Assuming you deploy via Docker
                     sh """
-                        docker run -d --name neew -p 9000:9000 new
+                        docker run -d --name neew -p 9000:9000 neew
                     """
                 }
             }
