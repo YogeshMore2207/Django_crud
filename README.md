@@ -1,4 +1,4 @@
-# Blog API
+# Django Crud
 
 This is a simple Blog API built with Django and Django Rest Framework. It allows users to register, authenticate using JWT tokens, and perform CRUD operations on blog posts.
 
